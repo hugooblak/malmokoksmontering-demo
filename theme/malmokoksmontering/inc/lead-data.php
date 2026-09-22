@@ -18,7 +18,5 @@ return array(
 		array( 'Vi har anlitat Malmö köksmontering för att renovera vår lägenhet. Det blev en total köksrenovering och målning av samtliga väggar. Vi är mycket nöjda med slutresultatet! Mustafa, vår kontaktperson, har varit lätt tillgänglig under hela processen och har kommit med bra synpunkter. De har till och med hjälpt oss att mont', 'Harris Georgiopoulos', 'för 3 år sedan' ),
 		array( 'Jag och min sambo anlitade Malmö Köksmontering till att renovera vårt kök, vi valde dem för att de var billiga men är mycket nöjda även med kvaliteten på slutresultatet. Extra positivt var det att man hela tiden under processen kunde få svar på sina (dumma) frågor om materialval och liknande. Sorry Mustafa, men jag kan', 'magicplayah', 'för 3 år sedan' ),
 	),
-	'bild_hero'      => 'foto-1.jpg',
-	'bilder'         => array( 'foto-2.jpg', 'foto-3.jpg' ),
 	'ar_riktig'      => true,
 );
