@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Malmö Köksmontering AB',
+	'bransch'        => 'Köksrenovering',
 	'telefon'        => '070-250 33 03',
 	'telefon_tel'    => '+46702503303',
 	'ort'            => 'Malmö',
